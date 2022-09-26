@@ -24,7 +24,6 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 # Dependencies
 
 Express
-Moment
 Mongoose
 
 
